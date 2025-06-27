@@ -1,0 +1,26 @@
+venv
+venv_vllm
+*\__pycache__
+
+# Data
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.npy
+
+# Models
+*.h5
+*.pth
+*.pt
+models/*
+
+# Images
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+
+!data/*
+unsloth_compiled_cache/*
