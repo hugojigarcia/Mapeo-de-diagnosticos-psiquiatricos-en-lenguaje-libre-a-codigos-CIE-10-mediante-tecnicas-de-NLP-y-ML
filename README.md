@@ -1,5 +1,5 @@
 # Mapeo de diagnósticos psiquiátricos en lenguaje libre a códigos CIE-10  
-**TFM – Máster en Aprendizaje Automático y Datos Masivos (UPM)**  
+**TFM – Máster en Aprendizaje Automático y Datos Masivos (UPM) - Hugo Jiménez García**  
 
 Este repositorio contiene todo el código, modelos y material auxiliar desarrollado para el Trabajo Fin de Máster (TFM) cuyo objetivo es **automatizar la codificación de notas clínicas de psiquiatría en español al estándar CIE-10** mediante técnicas de *Natural Language Processing* (NLP) y *Machine Learning* (ML).
 
