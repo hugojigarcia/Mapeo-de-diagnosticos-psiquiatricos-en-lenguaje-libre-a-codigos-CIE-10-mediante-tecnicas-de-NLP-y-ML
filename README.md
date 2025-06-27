@@ -8,14 +8,10 @@ Este repositorio contiene todo el código, modelos y material auxiliar desarroll
 ## Tabla de contenidos
 1. [Resumen del proyecto](#resumen-del-proyecto)  
 2. [Estructura del repositorio](#estructura-del-repositorio)  
-3. [Requisitos y entorno](#requisitos-y-entorno)  
+3. [Requisitos y entorno](#requisitos-y-entorno-en-windows)  
 4. [Datos](#datos)  
 5. [Guía de uso rápido](#guía-de-uso-rápido)  
 6. [Resultados principales](#resultados-principales)  
-7. [Calidad del código](#calidad-del-código)  
-8. [Contribuir](#contribuir)  
-9. [Licencia](#licencia)  
-10. [Cita](#cita)
 
 ---
 
